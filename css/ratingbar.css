@@ -1,7 +1,7 @@
 /* EXAMPLE 1 - DEFAULT CONFIGURATION */
 
 .ratingbar_wrapper {
-	width: 100px; // default value
+	width: 100%;
 	height: 20px;
 	background-color: #ccc;
 	border: 3px #ccc solid;
